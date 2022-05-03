@@ -1,0 +1,6 @@
+framework module Pods_Xccelerator_New_Xccelerator_NewUITests {
+  umbrella header "Pods-Xccelerator_New-Xccelerator_NewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
